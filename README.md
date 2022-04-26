@@ -47,4 +47,4 @@ I've managed large scale production environments for multi-national companies li
 </p>
 
 ## More info
-If you want more info about my certificates and courses, my work experience or education, please visit my [personal website](https://sotolucas.com.ar/).
+If you want more info about my certificates and courses, my work experience or education, or you want to get in touch with me, please visit my [personal website](https://sotolucas.com.ar/).

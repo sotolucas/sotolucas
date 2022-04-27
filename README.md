@@ -25,7 +25,7 @@ I address most of systems problems with coding solutions. Well documented and st
 With experience in traditional server management as Sysadmin and with tools as Ansible, Saltstack, and AWS Systems Manager I'm confident in managing large fleets of Debian-based, Red Hat, and Windows servers.
 
 ### ☁ Amazon Web Services expert
-I've managed large scale production environments for multi-national companies like Banco RIpley and Cencosud, using most of the services offered by AWS. Also, I'm 2x AWS Certified.
+I've managed large scale production environments for multi-national companies like Banco Ripley and Cencosud, using most of the services offered by AWS. Also, I'm 2x AWS Certified.
 
 
 ## Programming languages

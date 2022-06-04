@@ -1,5 +1,5 @@
 # 👨‍💻 Lucas Leonardo Soto 
-#### DevOps Engineer - Site Reliability Engineer
+#### Solutions Architect
 
 ## About me
 I’ve been working with Linux since 2012.

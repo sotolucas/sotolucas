@@ -39,7 +39,8 @@ I've managed large scale production environments for multi-national companies li
 
 ## Certificates
 <p float="left">
-<img src="https://sotolucas.com.ar/wp-content/uploads/logo_cka.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-logo-ckad.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/logo_cka.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/KCNA-Logo-300x300-1.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/aws_solutions_architect_badge.png" height="60" /> 
   <img src="https://sotolucas.com.ar/wp-content/uploads/aws_cloud_practitioner_badge.png" height="60" />

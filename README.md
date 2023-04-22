@@ -25,7 +25,7 @@ I address most of systems problems with coding solutions. Well documented and st
 With experience in traditional server management as Sysadmin and with tools as Ansible, Saltstack, and AWS Systems Manager I'm confident in managing large fleets of Debian-based, Red Hat, and Windows servers.
 
 ### ☁ Amazon Web Services expert
-I've managed large scale production environments for multi-national companies like Banco Ripley and Cencosud, using most of the services offered by AWS. Also, I'm 2x AWS Certified.
+I've managed large scale production environments for multi-national companies like Banco Ripley and Cencosud, using most of the services offered by AWS. Also, I'm 3x AWS Certified.
 
 
 ## Programming languages
@@ -43,6 +43,7 @@ I've managed large scale production environments for multi-national companies li
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-logo-ckad.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/logo_cka.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/KCNA-Logo-300x300-1.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-developer-badge.png" height="60" /> 
   <img src="https://sotolucas.com.ar/wp-content/uploads/aws_solutions_architect_badge.png" height="60" /> 
   <img src="https://sotolucas.com.ar/wp-content/uploads/aws_cloud_practitioner_badge.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate.png" height="60" />

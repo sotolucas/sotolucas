@@ -48,6 +48,7 @@ I've managed large scale production environments for multi-national companies li
   <img src="https://sotolucas.com.ar/wp-content/uploads/aws_cloud_practitioner_badge.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/Scrum-Foundation-Professional-Certificate.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-focp-badge.png" height="60" />
 </p>
 
 ## More info

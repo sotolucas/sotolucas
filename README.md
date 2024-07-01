@@ -1,5 +1,5 @@
 # 👨‍💻 Lucas Leonardo Soto 
-#### Solutions Architect
+#### Cloud Architect
 
 ## About me
 I’ve been working with Linux since 2012.

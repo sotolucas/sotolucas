@@ -15,17 +15,7 @@ solving are my top skills.
 
 ## What I do
 
-### 📏 Cloud architecture design
-From scratch, or even if it's about migrating legacy systems to the cloud, I can design and implement secure, resilient and cost-efficient cloud solutions with a serverless focus.
-
-### 📃 Coding
-I address most of systems problems with coding solutions. Well documented and standarized scripting with Bash and Python, also IAC with Terraform and CloudFormation saved me tons of hours.
-
-### 🖥 Servers management and configuration
-With experience in traditional server management as Sysadmin and with tools as Ansible, Saltstack, and AWS Systems Manager I'm confident in managing large fleets of Debian-based, Red Hat, and Windows servers.
-
-### ☁ Amazon Web Services expert
-I've managed large scale production environments for multi-national companies like Banco Ripley and Cencosud, using most of the services offered by AWS. Also, I'm 4x AWS Certified.
+Nothing but trying my git commiting.
 
 
 ## Programming languages

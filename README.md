@@ -42,6 +42,7 @@ I've managed large scale production environments for multi-national companies li
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-kubernetes-security-specialist-logo.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-logo-ckad.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/logo_cka.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-kcsa-badge-kcsa-badge.webp" height="60" />  
   <img src="https://sotolucas.com.ar/wp-content/uploads/KCNA-Logo-300x300-1.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-sysops-administrator-badge.png" height="60" /> 
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-developer-badge.png" height="60" /> 

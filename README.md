@@ -31,7 +31,7 @@ I've managed large scale production environments for multi-national companies li
 ## Programming languages
 <p float="left">
   <img src="https://sotolucas.com.ar/wp-content/uploads/bash.png" height="30" />
-  <img src="https://sotolucas.com.ar/wp-content/uploads/python.png" height="30" /> 
+  <img src="https://sotolucas.com.ar/wp-content/uploads/python.png" height="30" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/terraform.png" height="30" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/go.png" height="30" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/php.png" height="30" />
@@ -42,11 +42,12 @@ I've managed large scale production environments for multi-national companies li
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-kubernetes-security-specialist-logo.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-logo-ckad.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/logo_cka.png" height="60" />
-  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-kcsa-badge-kcsa-badge.webp" height="60" />  
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-kcsa-badge-kcsa-badge.webp" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/KCNA-Logo-300x300-1.png" height="60" />
-  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-sysops-administrator-badge.png" height="60" /> 
-  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-developer-badge.png" height="60" /> 
-  <img src="https://sotolucas.com.ar/wp-content/uploads/aws_solutions_architect_badge.png" height="60" /> 
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-sysops-administrator-badge.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-aws-developer-badge.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/sotolucas.com.ar-resume-aws-sa-pro-badge.png" height="60" />
+  <img src="https://sotolucas.com.ar/wp-content/uploads/aws_solutions_architect_badge.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/aws_cloud_practitioner_badge.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate.png" height="60" />
   <img src="https://sotolucas.com.ar/wp-content/uploads/Scrum-Foundation-Professional-Certificate.png" height="60" />

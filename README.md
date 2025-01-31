@@ -1,17 +1,4 @@
-# 👨‍💻 Lucas Leonardo Soto 
-#### Cloud Architect
-
-## About me
-I’ve been working with Linux since 2012.
-I’m responsible, pragmatic and dynamic.
-I feel comfortable with team work and I give the
-best to achieve all proposed goals.
-I want to access to a job position in which I can
-develop my skills, overcome myself personal
-and proffesionally and have exciting challenges.
-Critical thinking, decision-making and problem
-solving are my top skills.
-
+# 👨‍💻 Lucas Leonardo Soto - Cloud Architect
 
 ## What I do
 

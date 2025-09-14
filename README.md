@@ -1,4 +1,6 @@
-# 👨‍💻 Lucas Leonardo Soto - Cloud Architect
+# 👨‍💻 Lucas Leonardo Soto - Cloud Architect 
+
+[![committers.top badge](https://user-badge.committers.top/argentina_private/sotolucas.svg)](https://user-badge.committers.top/argentina_private/sotolucas)
 
 ## What I do
 
